@@ -305,3 +305,8 @@ hr {
   display: flex;
   justify-content: space-around;
 }
+
+.loading {
+  text-align: center;
+  margin-top: 5rem;
+}
